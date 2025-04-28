@@ -1,0 +1,15 @@
+div.user-5 {
+  width: 10vw;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+div.user-5:hover {
+  background-color: black;
+  color: orange;
+}/*# sourceMappingURL=style-5.css.map */
